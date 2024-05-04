@@ -1,0 +1,69 @@
+{
+  "dest": "AndrewStation",
+  "base":"/AndrewStation",
+  "title": "阿壮知行录",
+  "description": "知而有行，行而有知，知行无尽也",
+  "keywords": "道学, 人工智能, 读书, 研究, 实践, 赚钱",
+  "author": "阿壮",
+  "hostname": "AndrewStation.com/",
+  "navbar": [
+    {
+      "text": "有知录",
+      "children": [
+        {
+          "text": "人工智能",
+          "link": "/posts/mission"
+        }
+        
+      ]
+      
+    },
+    {
+      "text": "有行录",
+      "children": [
+        {
+          "text": "网站搭建",
+          "link": "/posts/knowledge/AGI/"
+        }
+        
+      ]
+    },
+    {
+      "text": "天地万万道",
+      "children": [
+        {
+          "text": "存之大道",
+          "link": "/posts/paper/HCI"
+        },
+        {
+          "text": "衍之大道",
+          "link": "/posts/knowledge/HMI/"
+        },
+        {
+          "text": "财富之道",
+          "link": "/posts/knowledge/Human Factor/"
+        },
+        {
+          "text": "育人之道",
+          "link": "/posts/knowledge/Intelligent Device/"
+        },
+        {
+          "text": "御人之道",
+          "link": "/posts/knowledge/Robot/"
+        },
+        {
+          "text": "育器之道",
+          "link": "/posts/knowledge/XR/"
+        },
+        {
+          "text": "御器之道",
+          "link": "/posts/paper/LLM"
+        }
+      ]
+    },
+    {
+      "text": "阿壮网址导航",
+      "link": "https://www.andrewstation.com/"
+    }
+  ]
+}
